@@ -22,8 +22,8 @@ Horiseon is a website that showcases digital marketing solutions, including Sear
 
 Include a screenshot or multiple screenshots showcasing your project.
 
-![Screenshot1](/Horiseon_digital_marketing/assets/images/published_page_1.png)
-![Screenshot2](/Horiseon_digital_marketing/assets/images/published_page_2.png)
+![Screenshot1](/assets/images/published_page_1.png)
+![Screenshot2](/assets/images/published_page_2.png)
 
 ## Deployment
 
