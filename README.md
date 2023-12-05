@@ -18,6 +18,18 @@ Horiseon is a website that showcases digital marketing solutions, including Sear
 - **Online Reputation Management:** Manage your online reputation and customer reviews effectively.
 - **Social Media Marketing:** Explore the influence of social media on buying habits and lead generation.
 
+## Screenshot
+
+Include a screenshot or multiple screenshots showcasing your project.
+
+![Screenshot1](/Horiseon_digital_marketing/assets/images/published_page_1.png)
+![Screenshot2](/Horiseon_digital_marketing/assets/images/published_page_2.png)
+
+## Deployment
+
+Provide a link to the deployed version of your application.
+[Live Demo](https://vivekiyer7.github.io/Horiseon_digital_marketing/)
+
 ## Usage
 
 1. Clone the repository:
